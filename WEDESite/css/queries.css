@@ -1,0 +1,35 @@
+/* For mobile:like samsung grand(480 * 800): */
+@media screen and (max-width:480px) {
+	.download-now { background-image: none; }
+	.design-content { margin-top: 55px; }
+	.get-started-btn { padding: 20px 50px; }	
+	.sidebar { height: 100px; }
+	.login-btn { display: block; }
+	#content-section { margin-top: 55px; }
+	#hide4phone{ display: none; }
+}
+/* For iphone: */
+@media screen and (max-width:320px) {
+	.design-content { margin-top: 55px; }	
+	.sidebar { height: 100px; }
+	#content-section { margin-top: 55px; }
+	#hide4phone{ display: none; }
+}
+/* For ipad: */
+@media screen and (max-width:760px) {
+	.download-now { background: #BD0026; background-image: none; }
+	.features-leftcol { border: none; padding: 0 0 0 20px; }
+	.features-rightcol { padding: 0 0 0 20px; }
+	.margin-bottom { margin-bottom: 0; }
+	.features p { margin-bottom: 50px; }
+	/*.hero p { display: none; }*/
+  	.hero img { margin-bottom: 50px; }
+	.sidebar { height: 200px; }
+}
+@media screen and (min-width:761px) {
+	.features-leftcol { border: none; padding: 0 0 0 20px; }
+	.features-rightcol { padding: 0 0 0 20px; }
+	.margin-bottom { margin-bottom: 0; }
+	.features p { margin-bottom: 50px; }
+	.sidebar { height: 900px; }
+}

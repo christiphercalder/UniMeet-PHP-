@@ -1,0 +1,37 @@
+<?php
+$fieldsOfStudy = 
+array(
+	"Physics",
+	"Astronomy or other Space Science",
+	"Philosophy",
+	"Engineering",
+	"Math",
+	"History",
+	"Chemistry",
+	"Biology or other Life Science",
+	"Foreign language (Useful type)",
+	"Computer Science",
+	"Agriculture",
+	"Geology or other Earth Science",
+	"Architecture",
+	"Literature",
+	"Law",
+	"Geography",
+	"Music",
+	"Economics",
+	"Study of Some Foreign Place or Culture",
+	"Archaeology",
+	"Anthropology",
+	"Religion or Theology",
+	"Art",
+	"Education",
+	"Foreign Language (Useless type)",
+	"Political Science",
+	"Drama or Film",
+	"Phys Ed, Sports Management or other Major Designed For Athletes",
+	"Journalism or 'Communications'",
+	"Business",
+	"Psychology",
+	"Sociology");
+
+?>
